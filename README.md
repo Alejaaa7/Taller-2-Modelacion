@@ -50,7 +50,7 @@ con `scipy.linalg.solve`.
 
 ### Resultados principales:
 
-![Campo](imagenes/caso2_etapa1_campo_num.png)
+![Campo](imagenes/caso2_etapa1_campo_numerico.png)
 
 Campo T(x,y) numérico.
 
