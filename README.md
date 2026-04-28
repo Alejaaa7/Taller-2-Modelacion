@@ -73,11 +73,13 @@ Crank-Nicolson 2D (semi-implícito, incondicionalmente estable). Condiciones de 
 
 Campo T(x,y,t) en escala automática.
 
-![snap_s](imagenes/caso2_etapa2_snapshots_saturado.png`)
+![snap_s](imagenes/caso2_etapa2_snapshots_saturado.png)
 
 Campo con escala saturada, para una mejor visualización del efecto del borde derecho.
 
 ![sens](imagenes/caso2_etapa2_sensores.png)
+
+Evolución temporal en 5 sensores.
 
 ---
 
